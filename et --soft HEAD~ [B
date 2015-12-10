@@ -1,0 +1,32 @@
+[33mcommit 18e18cc943500f45d7b045e4b1477c79d1e32090[m
+Author: cgoppedal <christopher.oppedal@emerson.com>
+Date:   Thu Dec 10 12:46:03 2015 -0500
+
+    cooked the soup!
+
+[33mcommit d08b220d8cacb026e95a1a3993909e67dc494980[m
+Merge: 1b4e161 0d56e99
+Author: Chris Oppedal <christopher.oppedal@emerson.com>
+Date:   Thu Dec 10 12:36:17 2015 -0500
+
+    Merge pull request #2 from cgoppedal/issue1
+    
+    added more cowbell
+
+[33mcommit 0d56e9985ae130c269f2588d12fc7666b2336ad3[m
+Author: cgoppedal <christopher.oppedal@emerson.com>
+Date:   Thu Dec 10 11:25:28 2015 -0500
+
+    added more cowbell
+
+[33mcommit 1b4e1613ff53aaaf18a2bb58e6a831a0c9867ad1[m
+Author: Chris Oppedal <christopher.oppedal@emerson.com>
+Date:   Thu Dec 10 11:14:11 2015 -0500
+
+    Update README.md
+
+[33mcommit b2eb85d6201990b698f39cc932c95ed77f2f7737[m
+Author: Chris Oppedal <christopher.oppedal@emerson.com>
+Date:   Thu Dec 10 11:13:31 2015 -0500
+
+    Initial commit
